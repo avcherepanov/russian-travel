@@ -1,0 +1,10 @@
+.place__url-text {
+    align-self: end;
+}
+
+@media screen and (max-width: 767px) {
+    .place__url-text {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
