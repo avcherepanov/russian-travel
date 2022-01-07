@@ -6,4 +6,6 @@
     color: #FFFFFF;
     margin: 0;
     letter-spacing: 0em;
+    list-style-type: none;
+    padding-left: 0;
 }
