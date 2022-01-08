@@ -1,6 +1,11 @@
 .cover {
    padding: 0 48px;
    max-width: 1184px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;
+   margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
