@@ -11,6 +11,10 @@
     cursor: pointer;
 }
 
+.footer__link:last-child {
+    margin: 0;
+}
+
 .footer__link:hover {
     opacity: .8;
 }
